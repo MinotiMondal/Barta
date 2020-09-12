@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "631967515011",
+    "firebase_url": "https://barta-1ded5.firebaseio.com",
+    "project_id": "barta-1ded5",
+    "storage_bucket": "barta-1ded5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631967515011:android:534945ef330b162114f6b6",
+        "android_client_info": {
+          "package_name": "home1.bartaaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631967515011-8ionbjaklo9950j17k5arglt0ou3t81i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "home1.bartaaapp",
+            "certificate_hash": "3d62b788a35df76de1f7c7ac35526fb5946185bf"
+          }
+        },
+        {
+          "client_id": "631967515011-f08s744jdcamq2ca565coic1rj85i83s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGuopKppdLH4RYfBKVC_XSEnzmfOAWdFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631967515011-f08s744jdcamq2ca565coic1rj85i83s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
